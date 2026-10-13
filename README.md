@@ -23,16 +23,16 @@
 ## About Me
 
 ```yaml
-name: Laiba Waseem
-role: Cybersecurity Researcher | GRC Analyst
-education: MS Information Security (in progress), NED University
-focus: [AI Security, AI Governance & Risk, Compliance Automation]
-frameworks: [ISO 27001, ISO 42001, SOC 2, GDPR, ITGCs]
-status: Learning AI Security
+Name: Laiba Waseem
+Role: Cybersecurity Researcher | GRC Analyst
+Education: MS Information Security (in progress), NED University
+Focus: AI Security, AI Governance & Risk, Compliance Automation
+Frameworks: ISO 27001, ISO 42001, SOC 2, GDPR, ITGCs
+Status: Learning AI Security
 ```
 
-- **Researching:** AI Risk in Financial Institutions, covering data exposure, unreliable outputs, and governance gaps
-- **Learning:** AI Security (LLM threats, model risk, and securing AI systems)
+- **Researching:** AI Risk in Financial Institutions
+- **Learning:** AI Security 
 - **Mentoring:** 100+ students through Cyber Connect
 - **Ask me about:** ISO 27001 implementation, GRC, IT audits, compliance automation, getting into cybersecurity
 

@@ -9,8 +9,6 @@
 </a>
 
 <br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=laibaincybersec&label=Profile%20Views&color=00B4D8&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/laibaincybersec?style=for-the-badge&logo=github&logoColor=white&color=1B4965&labelColor=0D1B2A)
 ![Location](https://img.shields.io/badge/Location-Karachi%2C_Pakistan-1B4965?style=for-the-badge&labelColor=0D1B2A)
 
